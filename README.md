@@ -1,5 +1,9 @@
 ![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQEFvXeLNvieVw/profile-displaybackgroundimage-shrink_350_1400/0/1645125757104?e=1654732800&v=beta&t=fO6M5AOK8Hq-hEnHyIp0-LT5crVdCbmciDgL4P8kUuQ)
 
+#About Erin 🍀
+
+###I am a full stack developer with a background in logistics focused on creating user-friendly applications with reusable and adaptable code. I think strategically and functionally to plan and execute applications. I am passionate about building things from the bottom up, and tailoring web applications to fit more than their original intended use. I’m looking for an opportunity to learn and grow within a company that can provide avenues of improvement for my knowledge base.
+
 <!--
 **alldayoday/alldayoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
