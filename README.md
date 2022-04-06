@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQEFvXeLNvieVw/profile-displaybackgroundimage-shrink_350_1400/0/1645125757104?e=1654732800&v=beta&t=fO6M5AOK8Hq-hEnHyIp0-LT5crVdCbmciDgL4P8kUuQ)
 
 <!--
 **alldayoday/alldayoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
